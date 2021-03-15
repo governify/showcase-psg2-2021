@@ -22,3 +22,4 @@ The three correlations present in the TPA are the following:
 ## Things to take in mind
  - The guarantees are computed every 5 minutes. Students should take a while each flow step (New branch-Open PR-Merge PR) for the system to properly obtain the metrics.
  - The issues/cards should be moved before working with the branches/PR as it is possible to miss some information doing the workflow in reverse.
+ - The columns must be called exactly "In progress", "In review" and "Done" (case sensitive).
