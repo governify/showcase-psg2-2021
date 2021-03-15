@@ -1,0 +1,16 @@
+project:
+  name: 'PSG Showcase Project'
+  owner: 'governify'
+  teamId: '5'
+  identities:
+    github:
+      url: 'https://github.com/governifyauditor/testing-psg'
+  members:
+    member1:
+      name: 'Governify'
+      surname: 'Auditor' 
+      githubUsername: 'governifyauditor'
+    member2:
+      name: 'Cesar'
+      surname: 'GP'
+      githubUsername: 'cesgarpas'
