@@ -1,6 +1,8 @@
 # PSG 2 (2020/21) Showcase Project
 This is a project example for the course PSG 2 of year 2020-21.
 
+![Project columns](https://github.com/governify/showcase-psg2-2021/blob/main/project.PNG?raw=true)
+
 ## Guarantees
 The three correlations present in the TPA are the following:
 
